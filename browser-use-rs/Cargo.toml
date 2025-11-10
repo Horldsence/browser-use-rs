@@ -1,0 +1,2 @@
+[workspace]
+members = ["crates/browser","crates/dom", "crates/tools"]
