@@ -82,3 +82,6 @@ product_extraction.ipynb
 product_extraction.py
 *report.md
 plot.py
+
+# rust
+browser-use-rs/target/
